@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is added by zaman
+=======
+This is a test
+>>>>>>> 9384d6cbec3f0a5a90b4b3d1705abb1c43f46564
+
+Test
